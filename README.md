@@ -1,9 +1,9 @@
 <h1 align="center">
-  <b>Site do filme Mario Bros</b>
+  <b>LadingPage - Mario Bros</b>
 </h1>
 
 <p align="center">
-  <img src=".github/preview.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/EresPvP/MarioBros-Site/main/img/Screenshot_1.png" width="100%" />
 </p>
 
 
