@@ -6,8 +6,6 @@
   <img src="https://raw.githubusercontent.com/EresPvP/MarioBros-Site/main/img/Screenshot_1.png" width="100%" />
 </p>
 
-
-<br>
 <h3 align="center">O site do <b>Mario Bros</b> é uma LandingPage criado por min utilizando para melhorar minhas Habilidades em Desenvolvimento Web</h3> 
 
 
@@ -40,7 +38,7 @@
 
 - ❤️  Adore programar em JavaScript & PHP, Adoro criar experimentos divertidos em nível de tipo.
 
-- 💬  Qualquer Dúvida sobre o Site pergunte Aqui **[Aqui](https://github.com/EresPvP/Sherlock-Bot-v1/pulls)**
+- 💬  Qualquer Dúvida sobre o Site pergunte Aqui **[Aqui](https://github.com/EresPvP/MarioBros-Site/pulls)**
 
 - 🤖 Este Site está disponivel para visualização clique **[Aqui](https://discord.gg/jwxEWURKfa)**
 <br><br>
