@@ -2,11 +2,8 @@
   <b>LadingPage - Mario Bros</b>
 </h1>
 
-<p align="center">
- 
-      <video src="https://user-images.githubusercontent.com/55217266/234727169-ec463911-75b0-4871-ad86-f47e6182921e.mp4"></video>
+https://user-images.githubusercontent.com/55217266/234727169-ec463911-75b0-4871-ad86-f47e6182921e.mp4
 
-</p>
 
 <h3 align="center">O site do <b>Mario Bros</b> é uma LandingPage criado por min utilizando para melhorar minhas Habilidades em Desenvolvimento Web</h3> 
 
